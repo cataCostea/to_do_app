@@ -1,10 +1,9 @@
 # to_do_app
 
-A new Flutter application.
+A ToDo app following the design of Gabriel Mihai => https://www.uplabs.com/posts/to-do-list-app-concept-cb2ae973-4d2c-4230-b739-132a2b42c521
+This is a work in progress.
 
 ## Getting Started
-
-This project is a starting point for a Flutter application.
 
 A few resources to get you started if this is your first Flutter project:
 
